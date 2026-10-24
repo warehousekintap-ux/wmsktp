@@ -1,0 +1,15 @@
+{
+  "short_name": "WMS Kintap",
+  "name": "WMS Kintap Area",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2821/2821810.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
